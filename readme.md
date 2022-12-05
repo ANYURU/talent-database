@@ -1,8 +1,8 @@
 # SUPABASE LOCAL DEVELOPMENT
 ### Prerequisites
-- You should have signed up with Github.
-- You should have a supabase account.
-- Basic knowledge of git.
+You should have signed up with Github.
+You should have a supabase account.
+Basic knowledge of git.
 
 ### Environment setup
 Clone the repository
