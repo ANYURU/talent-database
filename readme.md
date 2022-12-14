@@ -7,11 +7,12 @@ Basic knowledge of git.
 ### Environment setup
 Clone the repository
 Install Docker, GIT and supabase CLI.
+Log in supabase remote database in your browser. Then log in to your supabase CLI using the command below. 
 Login into supabase using
 ```bash
 supabase login
 ```
-This will provide a link [here](https://app.supabase.com/account/tokens) that you can follow to generate a supabase access token. 
+This will prompt you to provide a supabase access token and provide a link [here](https://app.supabase.com/account/tokens) that you can follow to generate a supabase access token. 
 Create a working directory for your project and change location to your directory.
 Initialize the project's working directory into a git repository using.
 ```bash
